@@ -1,0 +1,11 @@
+{
+ "lib_path": "../",
+ "central_info": {
+                "base_url": "https://internal-apigw.central.arubanetworks.com",
+                "customer_id": "e2be0de9d75d4b52bbb3ec7fff8140d8",
+                "token": {
+                  "access_token": "dQh9epeXaPyliTivU8ArX5m0isdWdMRU"
+                }
+              },
+  "ssl_verify": true
+}

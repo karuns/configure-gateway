@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "7-11"
+version = "0.1.0"
+description = ""
+authors = ["sohan <sohan.karun@hpe.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+logger = "^1.4"
+pycentral = "^0.0.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
